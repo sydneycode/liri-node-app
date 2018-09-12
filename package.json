@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/sydneycode/liri-node-app/issues"
   },
-  "homepage": "https://github.com/sydneycode/liri-node-app#readme"
+  "homepage": "https://github.com/sydneycode/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2",
+    "request": "^2.88.0"
+  }
 }
